@@ -5,12 +5,6 @@ This project implements a complete end-to-end data engineering pipeline for Airb
 
 The pipeline processes Airbnb listings, bookings, and hosts data through a medallion architecture (Bronze → Silver → Gold), implementing:
 
-Incremental loading
-
-Slowly Changing Dimensions (SCD Type 2)
-
-Analytics-ready datasets
-
 🏗️ Architecture
 
 🔄 Data Flow
